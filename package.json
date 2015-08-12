@@ -1,0 +1,22 @@
+{
+  "name": "addOne",
+  "version": "1.0.0",
+  "description": "A function that accepts a value and adds one to it.",
+  "main": "add-one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dtipson/addOne.git"
+  },
+  "keywords": [
+    "addition"
+  ],
+  "author": "Drew Tipson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtipson/addOne/issues"
+  },
+  "homepage": "https://github.com/dtipson/addOne"
+}
